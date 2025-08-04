@@ -1,0 +1,913 @@
+Year,Player,Team,Position,Bid_Amount
+2020,Russell Wilson,Tijuana Sanchitos,N/A,10
+2020,Justin Tucker,Tittsburgh Feelers,N/A,2
+2020,Travis Kelce,San Diego Shadowcocks,N/A,44
+2020,Chris Godwin,Squaw Valley Skinners,N/A,32
+2020,Patrick Mahomes,San Diego Shadowcocks,N/A,21
+2020,Michael Thomas,Tijuana Sanchitos,N/A,60
+2020,Mark Andrews,Westeros  Warlords,N/A,15
+2020,Josh Jacobs,Squaw Valley Skinners,N/A,62
+2020,Bills D/ST,Squaw Valley Skinners,N/A,2
+2020,David Montgomery,Chula Vista Chupacabras,N/A,8
+2020,Steelers D/ST,Fairview Fat Cats,N/A,2
+2020,Julio Jones,Muck City Mad Dawgs,N/A,56
+2020,Miles Sanders,Chula Vista Chupacabras,N/A,52
+2020,Harrison Butker,Fairview Fat Cats,N/A,2
+2020,Christian McCaffrey,San Diego Shadowcocks,N/A,81
+2020,Saquon Barkley,Tittsburgh Feelers,N/A,73
+2020,Kenny Golladay,Tijuana Sanchitos,N/A,36
+2020,49ers D/ST,Honolulu Horndogs,N/A,3
+2020,Wil Lutz,Westeros  Warlords,N/A,1
+2020,Ezekiel Elliott,Goleta Gringos,N/A,70
+2020,Broncos D/ST,DC Mighty Cucks,N/A,1
+2020,Le'Veon Bell,Muck City Mad Dawgs,N/A,16
+2020,Nick Chubb,Tijuana Sanchitos,N/A,49
+2020,DeAndre Hopkins,Chula Vista Chupacabras,N/A,45
+2020,Dalvin Cook,Winston-Salem Wake Snakes,N/A,56
+2020,Matt Prater,Goleta Gringos,N/A,1
+2020,Tyreek Hill,Winston-Salem Wake Snakes,N/A,42
+2020,Tom Brady,San Diego Shadowcocks,N/A,1
+2020,Clyde Edwards-Helaire,Fairview Fat Cats,N/A,57
+2020,Greg Zuerlein,Honolulu Horndogs,N/A,1
+2020,Lamar Jackson,Tittsburgh Feelers,N/A,31
+2020,Davante Adams,Muck City Mad Dawgs,N/A,56
+2020,Amari Cooper,Honolulu Horndogs,N/A,23
+2020,Devin Singletary,Muck City Mad Dawgs,N/A,9
+2020,Alvin Kamara,DC Mighty Cucks,N/A,60
+2020,Deshaun Watson,Westeros  Warlords,N/A,11
+2020,Mike Evans,Goleta Gringos,N/A,32
+2020,Derrick Henry,Westeros  Warlords,N/A,65
+2020,Rob Gronkowski,Tijuana Sanchitos,N/A,6
+2020,Kareem Hunt,Westeros  Warlords,N/A,10
+2020,Darren Waller,Tittsburgh Feelers,N/A,9
+2020,George Kittle,DC Mighty Cucks,N/A,29
+2020,Ravens D/ST,Tittsburgh Feelers,N/A,2
+2020,Adam Thielen,Chula Vista Chupacabras,N/A,28
+2020,Zane Gonzalez,DC Mighty Cucks,N/A,1
+2020,Odell Beckham Jr.,San Diego Shadowcocks,N/A,22
+2020,Austin Ekeler,Fairview Fat Cats,N/A,49
+2020,Joe Mixon,DC Mighty Cucks,N/A,62
+2020,Kenyan Drake,Fairview Fat Cats,N/A,47
+2020,Aaron Jones,Honolulu Horndogs,N/A,50
+2020,A.J. Green,Tijuana Sanchitos,N/A,10
+2020,Chris Carson,DC Mighty Cucks,N/A,35
+2020,Tyler Lockett,Squaw Valley Skinners,N/A,17
+2020,David Johnson,Chula Vista Chupacabras,N/A,26
+2020,Zack Moss,Westeros  Warlords,N/A,5
+2020,Leonard Fournette,Goleta Gringos,N/A,14
+2020,Courtland Sutton,Squaw Valley Skinners,N/A,15
+2020,Stefon Diggs,Chula Vista Chupacabras,N/A,11
+2020,Noah Fant,Fairview Fat Cats,N/A,2
+2020,DJ Moore,Squaw Valley Skinners,N/A,24
+2020,Todd Gurley II,Tittsburgh Feelers,N/A,26
+2020,Zach Ertz,Honolulu Horndogs,N/A,30
+2020,Jordan Howard,San Diego Shadowcocks,N/A,7
+2020,Melvin Gordon III,Westeros  Warlords,N/A,23
+2020,DeVante Parker,Winston-Salem Wake Snakes,N/A,10
+2020,James Conner,Honolulu Horndogs,N/A,36
+2020,Jonathan Taylor,Squaw Valley Skinners,N/A,39
+2020,Keenan Allen,Winston-Salem Wake Snakes,N/A,16
+2020,Duke Johnson,Chula Vista Chupacabras,N/A,3
+2020,Marlon Mack,Tijuana Sanchitos,N/A,3
+2020,Jerry Jeudy,Honolulu Horndogs,N/A,3
+2020,Kyler Murray,Chula Vista Chupacabras,N/A,18
+2020,Joe Burrow,Tijuana Sanchitos,N/A,2
+2020,JuJu Smith-Schuster,Goleta Gringos,N/A,30
+2020,Allen Robinson II,Honolulu Horndogs,N/A,19
+2020,Evan Engram,Goleta Gringos,N/A,4
+2020,Terry McLaurin,Winston-Salem Wake Snakes,N/A,14
+2020,DK Metcalf,San Diego Shadowcocks,N/A,16
+2020,Calvin Ridley,Westeros  Warlords,N/A,19
+2020,Antonio Gibson,Fairview Fat Cats,N/A,9
+2020,Chase Edmonds,Fairview Fat Cats,N/A,4
+2020,Latavius Murray,Winston-Salem Wake Snakes,N/A,3
+2020,Josh Allen,Fairview Fat Cats,N/A,4
+2020,Ryan Succop,Winston-Salem Wake Snakes,N/A,2
+2020,Matt Ryan,Muck City Mad Dawgs,N/A,2
+2020,Daniel Jones,Goleta Gringos,N/A,1
+2020,T.Y. Hilton,Muck City Mad Dawgs,N/A,15
+2020,Cam Akers,Winston-Salem Wake Snakes,N/A,23
+2020,Robert Woods,Tittsburgh Feelers,N/A,18
+2020,Sony Michel,Honolulu Horndogs,N/A,3
+2020,Dak Prescott,Fairview Fat Cats,N/A,5
+2020,Hayden Hurst,Winston-Salem Wake Snakes,N/A,3
+2020,Damien Harris,Winston-Salem Wake Snakes,N/A,3
+2020,Robbie Gould,Squaw Valley Skinners,N/A,1
+2020,Marquise Brown,Fairview Fat Cats,N/A,8
+2020,Jake Elliott,Chula Vista Chupacabras,N/A,1
+2020,Kerryon Johnson,Muck City Mad Dawgs,N/A,3
+2020,J.K. Dobbins,Goleta Gringos,N/A,7
+2020,A.J. Brown,Tittsburgh Feelers,N/A,16
+2020,DJ Chark Jr.,Tittsburgh Feelers,N/A,7
+2020,Jarvis Landry,Fairview Fat Cats,N/A,2
+2020,Carson Wentz,Chula Vista Chupacabras,N/A,2
+2020,Alexander Mattison,Winston-Salem Wake Snakes,N/A,4
+2020,Cooper Kupp,Westeros  Warlords,N/A,28
+2020,Tarik Cohen,DC Mighty Cucks,N/A,1
+2020,Raheem Mostert,Honolulu Horndogs,N/A,19
+2020,Emmanuel Sanders,Goleta Gringos,N/A,5
+2020,Tyler Higbee,Muck City Mad Dawgs,N/A,3
+2020,Phillip Lindsay,Goleta Gringos,N/A,8
+2020,Will Fuller V,Goleta Gringos,N/A,5
+2020,Tyler Boyd,Westeros  Warlords,N/A,7
+2020,Brandin Cooks,Honolulu Horndogs,N/A,6
+2020,Michael Gallup,Westeros  Warlords,N/A,8
+2020,Chris Thompson,Fairview Fat Cats,N/A,2
+2020,Drew Brees,Goleta Gringos,N/A,2
+2020,Tevin Coleman,Chula Vista Chupacabras,N/A,2
+2020,Benny Snell Jr.,Tittsburgh Feelers,N/A,2
+2020,Cam Newton,Muck City Mad Dawgs,N/A,4
+2020,CeeDee Lamb,Winston-Salem Wake Snakes,N/A,3
+2020,Henry Ruggs III,Winston-Salem Wake Snakes,N/A,3
+2020,Adrian Peterson,Tittsburgh Feelers,N/A,1
+2020,Mark Ingram II,Muck City Mad Dawgs,N/A,20
+2020,Matt Breida,Tijuana Sanchitos,N/A,6
+2020,Boston Scott,San Diego Shadowcocks,N/A,1
+2020,Preston Williams,Tijuana Sanchitos,N/A,2
+2020,Aaron Rodgers,Honolulu Horndogs,N/A,1
+2020,Deebo Samuel,Westeros  Warlords,N/A,3
+2020,Ben Roethlisberger,Winston-Salem Wake Snakes,N/A,3
+2020,Ronald Jones II,Goleta Gringos,N/A,4
+2020,Jared Goff,Squaw Valley Skinners,N/A,1
+2020,Julian Edelman,Goleta Gringos,N/A,10
+2020,Ryquell Armstead,Chula Vista Chupacabras,N/A,1
+2020,Carlos Hyde,Tittsburgh Feelers,N/A,1
+2020,Patriots D/ST,Winston-Salem Wake Snakes,N/A,2
+2020,James White,Tijuana Sanchitos,N/A,1
+2020,Sterling Shepard,Fairview Fat Cats,N/A,4
+2020,D'Andre Swift,Tijuana Sanchitos,N/A,10
+2020,Diontae Johnson,DC Mighty Cucks,N/A,4
+2020,Colts D/ST,Westeros  Warlords,N/A,1
+2020,Darius Slayton,DC Mighty Cucks,N/A,1
+2020,Marvin Jones Jr.,Muck City Mad Dawgs,N/A,5
+2020,Christian Kirk,Fairview Fat Cats,N/A,3
+2020,Bears D/ST,Goleta Gringos,N/A,2
+2020,Tony Pollard,Honolulu Horndogs,N/A,2
+2020,Buccaneers D/ST,Tijuana Sanchitos,N/A,1
+2020,Justin Jackson,Squaw Valley Skinners,N/A,2
+2020,Stephen Gostkowski,Muck City Mad Dawgs,N/A,1
+2020,Devine Ozigbo,Muck City Mad Dawgs,N/A,3
+2020,Chris Herndon,Westeros  Warlords,N/A,1
+2020,Laviska Shenault Jr.,DC Mighty Cucks,N/A,1
+2020,Hunter Henry,Honolulu Horndogs,N/A,2
+2020,T.J. Hockenson,Chula Vista Chupacabras,N/A,1
+2020,Jamison Crowder,Tittsburgh Feelers,N/A,2
+2020,Jalen Reagor,Tijuana Sanchitos,N/A,1
+2020,Chris Boswell,San Diego Shadowcocks,N/A,1
+2020,Seahawks D/ST,Muck City Mad Dawgs,N/A,1
+2020,Parris Campbell,Honolulu Horndogs,N/A,1
+2020,Mecole Hardman,Westeros  Warlords,N/A,1
+2020,Michael Pittman Jr.,DC Mighty Cucks,N/A,1
+2020,Anthony Miller,Squaw Valley Skinners,N/A,1
+2020,Chargers D/ST,Chula Vista Chupacabras,N/A,1
+2020,Darrell Henderson Jr.,Tittsburgh Feelers,N/A,1
+2020,Younghoe Koo,Tijuana Sanchitos,N/A,1
+2020,Golden Tate,San Diego Shadowcocks,N/A,1
+2020,Larry Fitzgerald,Muck City Mad Dawgs,N/A,1
+2020,DeSean Jackson,DC Mighty Cucks,N/A,1
+2020,AJ Dillon,Squaw Valley Skinners,N/A,1
+2020,Sammy Watkins,Chula Vista Chupacabras,N/A,1
+2020,Darrel Williams,Tittsburgh Feelers,N/A,9
+2020,Tyrell Williams,San Diego Shadowcocks,N/A,1
+2020,Gardner Minshew II,DC Mighty Cucks,N/A,1
+2020,Justin Jefferson,Squaw Valley Skinners,N/A,1
+2020,Hunter Renfrow,San Diego Shadowcocks,N/A,1
+2020,Bryan Edwards,DC Mighty Cucks,N/A,1
+2020,Jared Cook,Squaw Valley Skinners,N/A,1
+2020,Corey Davis,San Diego Shadowcocks,N/A,1
+2020,Matthew Stafford,DC Mighty Cucks,N/A,1
+2020,Robby Anderson,Squaw Valley Skinners,N/A,1
+2020,John Brown,San Diego Shadowcocks,N/A,1
+2020,Saints D/ST,San Diego Shadowcocks,N/A,1
+2021,Christian McCaffrey,Fairview Fat Cats,N/A,82
+2021,Lamar Jackson,Pasco Pounders,N/A,21
+2021,Justin Tucker,Poulsbo Polliwogs,N/A,3
+2021,Nick Chubb,Goleta Gringos,N/A,66
+2021,Jason Sanders,San Diego Shadowcocks,N/A,2
+2021,Broncos D/ST,Fairview Fat Cats,N/A,1
+2021,Kenny Golladay,Tijuana Sanchitos,N/A,22
+2021,Harrison Butker,Tittsburgh Feelers,N/A,3
+2021,Matt Gay,Chula Vista Chupacabras,N/A,2
+2021,Rams D/ST,Pasco Pounders,N/A,3
+2021,Darren Waller,Goleta Gringos,N/A,40
+2021,Amari Cooper,Chula Vista Chupacabras,N/A,24
+2021,Najee Harris,San Diego Shadowcocks,N/A,57
+2021,Saquon Barkley,San Diego Shadowcocks,N/A,63
+2021,Aaron Rodgers,Tijuana Sanchitos,N/A,11
+2021,Chris Carson,Squaw Valley Skinners,N/A,34
+2021,Younghoe Koo,Tijuana Sanchitos,N/A,2
+2021,Brandon McManus,Fairview Fat Cats,N/A,1
+2021,Jalen Hurts,Poulsbo Polliwogs,N/A,6
+2021,Tyreek Hill,San Diego Shadowcocks,N/A,52
+2021,49ers D/ST,Poulsbo Polliwogs,N/A,2
+2021,Davante Adams,Pasco Pounders,N/A,58
+2021,Jerry Jeudy,DC Mighty Cucks,N/A,9
+2021,CeeDee Lamb,Squaw Valley Skinners,N/A,39
+2021,Ezekiel Elliott,Tijuana Sanchitos,N/A,67
+2021,Derrick Henry,Tijuana Sanchitos,N/A,75
+2021,Josh Allen,Chula Vista Chupacabras,N/A,17
+2021,Antonio Gibson,Poulsbo Polliwogs,N/A,62
+2021,Daniel Carlson,Westeros  Warlords,N/A,1
+2021,Dalvin Cook,Tittsburgh Feelers,N/A,75
+2021,David Montgomery,DC Mighty Cucks,N/A,28
+2021,Gus Edwards,Chula Vista Chupacabras,N/A,32
+2021,Mike Evans,Squaw Valley Skinners,N/A,21
+2021,Jonathan Taylor,DC Mighty Cucks,N/A,61
+2021,Austin Ekeler,Poulsbo Polliwogs,N/A,61
+2021,Travis Kelce,Honolulu Horndogs,N/A,60
+2021,Mike Davis,Squaw Valley Skinners,N/A,18
+2021,Alvin Kamara,Honolulu Horndogs,N/A,80
+2021,Justin Jefferson,Goleta Gringos,N/A,35
+2021,Terry McLaurin,Fairview Fat Cats,N/A,25
+2021,Steelers D/ST,Westeros  Warlords,N/A,4
+2021,Stefon Diggs,Goleta Gringos,N/A,46
+2021,Logan Thomas,Tittsburgh Feelers,N/A,4
+2021,James Robinson,Chula Vista Chupacabras,N/A,45
+2021,Patriots D/ST,Chula Vista Chupacabras,N/A,2
+2021,Buccaneers D/ST,Honolulu Horndogs,N/A,3
+2021,Commanders D/ST,Tittsburgh Feelers,N/A,3
+2021,Calvin Ridley,Squaw Valley Skinners,N/A,39
+2021,Joe Mixon,DC Mighty Cucks,N/A,50
+2021,Darrell Henderson Jr.,Tittsburgh Feelers,N/A,21
+2021,Antonio Brown,San Diego Shadowcocks,N/A,9
+2021,Aaron Jones,Westeros  Warlords,N/A,69
+2021,DeAndre Hopkins,Chula Vista Chupacabras,N/A,42
+2021,DK Metcalf,Tittsburgh Feelers,N/A,43
+2021,A.J. Brown,Westeros  Warlords,N/A,39
+2021,Mark Andrews,Chula Vista Chupacabras,N/A,16
+2021,Josh Jacobs,Westeros  Warlords,N/A,35
+2021,Allen Robinson II,Honolulu Horndogs,N/A,28
+2021,Russell Wilson,Westeros  Warlords,N/A,10
+2021,Clyde Edwards-Helaire,Tittsburgh Feelers,N/A,40
+2021,Miles Sanders,Pasco Pounders,N/A,23
+2021,Ronald Jones II,Honolulu Horndogs,N/A,7
+2021,Mike Gesicki,Westeros  Warlords,N/A,4
+2021,Chase Edmonds,Pasco Pounders,N/A,14
+2021,Melvin Gordon III,Westeros  Warlords,N/A,5
+2021,D'Andre Swift,Fairview Fat Cats,N/A,14
+2021,Keenan Allen,Pasco Pounders,N/A,32
+2021,Kyler Murray,Squaw Valley Skinners,N/A,10
+2021,Kyle Pitts,Squaw Valley Skinners,N/A,13
+2021,Adam Thielen,Poulsbo Polliwogs,N/A,24
+2021,Patrick Mahomes,Squaw Valley Skinners,N/A,16
+2021,Justin Herbert,San Diego Shadowcocks,N/A,7
+2021,Julio Jones,Fairview Fat Cats,N/A,18
+2021,Cooper Kupp,Poulsbo Polliwogs,N/A,12
+2021,Dallas Goedert,Poulsbo Polliwogs,N/A,2
+2021,George Kittle,Fairview Fat Cats,N/A,41
+2021,Myles Gaskin,Tijuana Sanchitos,N/A,8
+2021,Kareem Hunt,Pasco Pounders,N/A,21
+2021,Wayne Gallman,Squaw Valley Skinners,N/A,1
+2021,Raheem Mostert,Westeros  Warlords,N/A,15
+2021,Diontae Johnson,Honolulu Horndogs,N/A,8
+2021,Robert Woods,Pasco Pounders,N/A,14
+2021,Dak Prescott,Honolulu Horndogs,N/A,6
+2021,Courtland Sutton,Poulsbo Polliwogs,N/A,3
+2021,Tyler Lockett,Poulsbo Polliwogs,N/A,14
+2021,Chris Godwin,DC Mighty Cucks,N/A,12
+2021,Tee Higgins,Fairview Fat Cats,N/A,6
+2021,Tyler Bass,Pasco Pounders,N/A,1
+2021,Chase Claypool,Westeros  Warlords,N/A,7
+2021,Brandon Aiyuk,Chula Vista Chupacabras,N/A,6
+2021,Jason Myers,Squaw Valley Skinners,N/A,1
+2021,Javonte Williams,Westeros  Warlords,N/A,7
+2021,Greg Zuerlein,DC Mighty Cucks,N/A,1
+2021,Marquez Callaway,Fairview Fat Cats,N/A,3
+2021,DJ Moore,DC Mighty Cucks,N/A,6
+2021,Odell Beckham Jr.,DC Mighty Cucks,N/A,7
+2021,Trey Sermon,Chula Vista Chupacabras,N/A,5
+2021,DeVonta Smith,DC Mighty Cucks,N/A,3
+2021,JuJu Smith-Schuster,San Diego Shadowcocks,N/A,2
+2021,T.J. Hockenson,DC Mighty Cucks,N/A,7
+2021,Sony Michel,Poulsbo Polliwogs,N/A,3
+2021,Ryan Tannehill,Fairview Fat Cats,N/A,3
+2021,Ravens D/ST,DC Mighty Cucks,N/A,2
+2021,Tom Brady,Chula Vista Chupacabras,N/A,3
+2021,Laviska Shenault Jr.,Chula Vista Chupacabras,N/A,3
+2021,AJ Dillon,Pasco Pounders,N/A,2
+2021,Matthew Stafford,Goleta Gringos,N/A,3
+2021,James Conner,Pasco Pounders,N/A,2
+2021,Tyler Boyd,Poulsbo Polliwogs,N/A,1
+2021,Robby Anderson,Tijuana Sanchitos,N/A,3
+2021,William Fuller V,Tijuana Sanchitos,N/A,1
+2021,Noah Fant,Tijuana Sanchitos,N/A,2
+2021,Michael Gallup,Poulsbo Polliwogs,N/A,2
+2021,Jamaal Williams,Poulsbo Polliwogs,N/A,2
+2021,Bills D/ST,Squaw Valley Skinners,N/A,1
+2021,Corey Davis,Pasco Pounders,N/A,2
+2021,Kenyan Drake,DC Mighty Cucks,N/A,1
+2021,Baker Mayfield,Tittsburgh Feelers,N/A,1
+2021,Michael Carter,Fairview Fat Cats,N/A,2
+2021,Deebo Samuel,Poulsbo Polliwogs,N/A,2
+2021,David Johnson,Honolulu Horndogs,N/A,1
+2021,Panthers D/ST,Tijuana Sanchitos,N/A,1
+2021,Robert Tonyan,Pasco Pounders,N/A,1
+2021,Ja'Marr Chase,Tittsburgh Feelers,N/A,2
+2021,Damien Harris,DC Mighty Cucks,N/A,6
+2021,Brandin Cooks,Squaw Valley Skinners,N/A,1
+2021,Zack Moss,Chula Vista Chupacabras,N/A,1
+2021,Michael Thomas,DC Mighty Cucks,N/A,6
+2021,Mike Williams,Squaw Valley Skinners,N/A,2
+2021,Marquise Brown,Pasco Pounders,N/A,2
+2021,Dolphins D/ST,Squaw Valley Skinners,N/A,2
+2021,Curtis Samuel,Tittsburgh Feelers,N/A,2
+2021,DJ Chark Jr.,Tijuana Sanchitos,N/A,1
+2021,Leonard Fournette,Pasco Pounders,N/A,4
+2021,Mecole Hardman,Westeros  Warlords,N/A,1
+2021,Phillip Lindsay,Fairview Fat Cats,N/A,1
+2021,Michael Pittman Jr.,Tijuana Sanchitos,N/A,2
+2021,Darnell Mooney,Chula Vista Chupacabras,N/A,1
+2021,Trevor Lawrence,DC Mighty Cucks,N/A,1
+2021,Devin Singletary,Tittsburgh Feelers,N/A,1
+2021,Nyheim Hines,Goleta Gringos,N/A,1
+2021,Alexander Mattison,San Diego Shadowcocks,N/A,1
+2021,Jaylen Waddle,Tijuana Sanchitos,N/A,2
+2021,Tua Tagovailoa,Tittsburgh Feelers,N/A,2
+2021,Jarvis Landry,Westeros  Warlords,N/A,1
+2021,Trey Lance,Fairview Fat Cats,N/A,1
+2021,Tony Pollard,Squaw Valley Skinners,N/A,2
+2021,Elijah Moore,Chula Vista Chupacabras,N/A,1
+2021,DeVante Parker,Tijuana Sanchitos,N/A,2
+2021,Marvin Jones Jr.,Goleta Gringos,N/A,1
+2021,Jonnu Smith,San Diego Shadowcocks,N/A,1
+2021,Henry Ruggs III,Honolulu Horndogs,N/A,1
+2021,Cole Beasley,Tijuana Sanchitos,N/A,1
+2021,Jakobi Meyers,Westeros  Warlords,N/A,1
+2021,Emmanuel Sanders,Fairview Fat Cats,N/A,1
+2021,Darrel Williams,Tittsburgh Feelers,N/A,1
+2021,Jalen Reagor,Goleta Gringos,N/A,1
+2021,Tyler Higbee,San Diego Shadowcocks,N/A,1
+2021,Latavius Murray,Honolulu Horndogs,N/A,1
+2021,Austin Hooper,Westeros  Warlords,N/A,1
+2021,A.J. Green,Fairview Fat Cats,N/A,1
+2021,Bryan Edwards,Tittsburgh Feelers,N/A,1
+2021,Tevin Coleman,Goleta Gringos,N/A,1
+2021,Colts D/ST,San Diego Shadowcocks,N/A,1
+2021,Tyrell Williams,Honolulu Horndogs,N/A,1
+2021,Parris Campbell,Tittsburgh Feelers,N/A,1
+2021,James White,Goleta Gringos,N/A,1
+2021,Malcolm Brown,San Diego Shadowcocks,N/A,1
+2021,Russell Gage,Honolulu Horndogs,N/A,1
+2021,Browns D/ST,Goleta Gringos,N/A,1
+2021,Jamison Crowder,San Diego Shadowcocks,N/A,1
+2021,Hunter Henry,Honolulu Horndogs,N/A,1
+2021,Amon-Ra St. Brown,Goleta Gringos,N/A,1
+2021,Randall Cobb,San Diego Shadowcocks,N/A,1
+2021,Ryan Succop,Honolulu Horndogs,N/A,1
+2021,Rashaad Penny,Goleta Gringos,N/A,1
+2021,Rhamondre Stevenson,San Diego Shadowcocks,N/A,1
+2021,Nelson Agholor,Honolulu Horndogs,N/A,1
+2021,Ty'Son Williams,Goleta Gringos,N/A,1
+2021,Chase McLaughlin,Goleta Gringos,N/A,1
+2022,Najee Harris,Westeros  Warlords,N/A,66
+2022,Diontae Johnson,Tijuana Sanchitos,N/A,18
+2022,Derrick Henry,San Diego Shadowcöcks,N/A,71
+2022,Davante Adams,DC Mighty Cucks,N/A,41
+2022,Courtland Sutton,Squaw Valley Skinners,N/A,18
+2022,Saquon Barkley,DC Mighty Cucks,N/A,45
+2022,Jonathan Taylor,Chula Vista Chupacabras,N/A,91
+2022,Christian McCaffrey,Westeros  Warlords,N/A,75
+2022,Austin Ekeler,Squaw Valley Skinners,N/A,71
+2022,Cooper Kupp,San Diego Shadowcöcks,N/A,59
+2022,Nick Chubb,Tittsburgh Feelers,N/A,53
+2022,Mark Andrews,Honolulu Horndogs,N/A,39
+2022,Ja'Marr Chase,Pasco Pounders,N/A,56
+2022,49ers D/ST,Squaw Valley Skinners,N/A,1
+2022,Justin Jefferson,Poulsbo Polliwogs,N/A,65
+2022,Javonte Williams,Fairview Fat Cats,N/A,56
+2022,Justin Tucker,Tijuana Sanchitos,N/A,4
+2022,Buccaneers D/ST,Tijuana Sanchitos,N/A,2
+2022,Ezekiel Elliott,Tijuana Sanchitos,N/A,39
+2022,Evan McPherson,Chula Vista Chupacabras,N/A,3
+2022,Joe Mixon,Tittsburgh Feelers,N/A,67
+2022,Dalvin Cook,Tijuana Sanchitos,N/A,66
+2022,Gabe Davis,Chula Vista Chupacabras,N/A,17
+2022,D'Andre Swift,DC Mighty Cucks,N/A,52
+2022,Aaron Jones,Fairview Fat Cats,N/A,55
+2022,Dameon Pierce,Poulsbo Polliwogs,N/A,21
+2022,Deebo Samuel,Poulsbo Polliwogs,N/A,45
+2022,Alvin Kamara,Goleta Gringos,N/A,61
+2022,Justin Fields,Tittsburgh Feelers,N/A,1
+2022,Saints D/ST,Fairview Fat Cats,N/A,1
+2022,Josh Allen,San Diego Shadowcöcks,N/A,22
+2022,Leonard Fournette,Honolulu Horndogs,N/A,56
+2022,Stefon Diggs,Pasco Pounders,N/A,49
+2022,Bills D/ST,Honolulu Horndogs,N/A,3
+2022,Lamar Jackson,Fairview Fat Cats,N/A,17
+2022,Jalen Hurts,Goleta Gringos,N/A,16
+2022,DK Metcalf,Goleta Gringos,N/A,15
+2022,Darren Waller,Goleta Gringos,N/A,8
+2022,Terry McLaurin,San Diego Shadowcöcks,N/A,24
+2022,Tyreek Hill,Tijuana Sanchitos,N/A,33
+2022,Packers D/ST,Tittsburgh Feelers,N/A,1
+2022,Daniel Carlson,Fairview Fat Cats,N/A,2
+2022,Antonio Gibson,Goleta Gringos,N/A,13
+2022,David Montgomery,Goleta Gringos,N/A,27
+2022,Travis Etienne Jr.,Honolulu Horndogs,N/A,28
+2022,Rhamondre Stevenson,Chula Vista Chupacabras,N/A,8
+2022,Kyler Murray,Westeros  Warlords,N/A,13
+2022,Breece Hall,Fairview Fat Cats,N/A,27
+2022,James Conner,Chula Vista Chupacabras,N/A,39
+2022,Cam Akers,Squaw Valley Skinners,N/A,36
+2022,Travis Kelce,Squaw Valley Skinners,N/A,36
+2022,Mike Evans,Pasco Pounders,N/A,25
+2022,Brandon McManus,Tittsburgh Feelers,N/A,1
+2022,CeeDee Lamb,Honolulu Horndogs,N/A,32
+2022,Jerry Jeudy,Westeros  Warlords,N/A,19
+2022,Josh Jacobs,Tittsburgh Feelers,N/A,22
+2022,Elijah Mitchell,Poulsbo Polliwogs,N/A,23
+2022,Tee Higgins,Goleta Gringos,N/A,19
+2022,Hunter Renfrow,Tijuana Sanchitos,N/A,9
+2022,Justin Herbert,Honolulu Horndogs,N/A,11
+2022,Kyle Pitts,Tittsburgh Feelers,N/A,29
+2022,J.K. Dobbins,Westeros  Warlords,N/A,17
+2022,Marquise Brown,Poulsbo Polliwogs,N/A,9
+2022,Kenneth Walker III,San Diego Shadowcöcks,N/A,4
+2022,Russell Wilson,Tijuana Sanchitos,N/A,4
+2022,A.J. Brown,Goleta Gringos,N/A,14
+2022,Chase Edmonds,Pasco Pounders,N/A,15
+2022,Miles Sanders,Honolulu Horndogs,N/A,10
+2022,Keenan Allen,Poulsbo Polliwogs,N/A,22
+2022,Michael Pittman Jr.,Fairview Fat Cats,N/A,21
+2022,Joe Burrow,Pasco Pounders,N/A,3
+2022,Matt Gay,Honolulu Horndogs,N/A,1
+2022,Clyde Edwards-Helaire,Pasco Pounders,N/A,16
+2022,Devin Singletary,San Diego Shadowcöcks,N/A,5
+2022,DJ Moore,Tittsburgh Feelers,N/A,12
+2022,Amon-Ra St. Brown,Fairview Fat Cats,N/A,11
+2022,Dak Prescott,Tijuana Sanchitos,N/A,2
+2022,David Njoku,San Diego Shadowcöcks,N/A,2
+2022,Jaylen Waddle,Chula Vista Chupacabras,N/A,7
+2022,Mike Williams,DC Mighty Cucks,N/A,15
+2022,George Kittle,Squaw Valley Skinners,N/A,14
+2022,Darnell Mooney,Tijuana Sanchitos,N/A,6
+2022,Allen Lazard,Goleta Gringos,N/A,7
+2022,JuJu Smith-Schuster,Honolulu Horndogs,N/A,8
+2022,Patrick Mahomes,Chula Vista Chupacabras,N/A,13
+2022,Tom Brady,Squaw Valley Skinners,N/A,3
+2022,Brandin Cooks,DC Mighty Cucks,N/A,4
+2022,Colts D/ST,Chula Vista Chupacabras,N/A,2
+2022,Robert Woods,Pasco Pounders,N/A,3
+2022,Nyheim Hines,Pasco Pounders,N/A,5
+2022,T.J. Hockenson,Poulsbo Polliwogs,N/A,6
+2022,James Robinson,Goleta Gringos,N/A,7
+2022,Aaron Rodgers,Tittsburgh Feelers,N/A,2
+2022,Chris Olave,Fairview Fat Cats,N/A,3
+2022,DeAndre Hopkins,Tijuana Sanchitos,N/A,8
+2022,Damien Harris,Honolulu Horndogs,N/A,6
+2022,Trey Lance,DC Mighty Cucks,N/A,1
+2022,Darrell Henderson Jr.,Squaw Valley Skinners,N/A,3
+2022,Brandon Aiyuk,Chula Vista Chupacabras,N/A,3
+2022,Harrison Butker,DC Mighty Cucks,N/A,2
+2022,Treylon Burks,Goleta Gringos,N/A,2
+2022,Cole Kmet,Tijuana Sanchitos,N/A,3
+2022,Rashaad Penny,Goleta Gringos,N/A,7
+2022,Chase Claypool,Chula Vista Chupacabras,N/A,1
+2022,Trevor Lawrence,Poulsbo Polliwogs,N/A,1
+2022,Drake London,San Diego Shadowcöcks,N/A,2
+2022,Tony Pollard,DC Mighty Cucks,N/A,4
+2022,Chris Godwin,Pasco Pounders,N/A,6
+2022,AJ Dillon,DC Mighty Cucks,N/A,13
+2022,Dalton Schultz,Chula Vista Chupacabras,N/A,4
+2022,Zach Ertz,San Diego Shadowcöcks,N/A,3
+2022,Kareem Hunt,Pasco Pounders,N/A,13
+2022,Tyler Lockett,Tijuana Sanchitos,N/A,3
+2022,Dallas Goedert,DC Mighty Cucks,N/A,3
+2022,Allen Robinson II,Squaw Valley Skinners,N/A,5
+2022,Michael Gallup,San Diego Shadowcöcks,N/A,2
+2022,Amari Cooper,Chula Vista Chupacabras,N/A,3
+2022,Michael Thomas,DC Mighty Cucks,N/A,5
+2022,Dawson Knox,Pasco Pounders,N/A,1
+2022,Adam Thielen,Tittsburgh Feelers,N/A,3
+2022,Tyler Allgeier,Squaw Valley Skinners,N/A,2
+2022,DeVonta Smith,DC Mighty Cucks,N/A,2
+2022,Cardinals D/ST,Westeros  Warlords,N/A,1
+2022,Elijah Moore,Tittsburgh Feelers,N/A,3
+2022,George Pickens,Poulsbo Polliwogs,N/A,2
+2022,Pat Freiermuth,Fairview Fat Cats,N/A,2
+2022,Raheem Mostert,Chula Vista Chupacabras,N/A,3
+2022,Jamaal Williams,San Diego Shadowcöcks,N/A,2
+2022,Rashod Bateman,DC Mighty Cucks,N/A,8
+2022,Cordarrelle Patterson,Squaw Valley Skinners,N/A,5
+2022,Melvin Gordon III,Pasco Pounders,N/A,3
+2022,Christian Kirk,Squaw Valley Skinners,N/A,3
+2022,Broncos D/ST,DC Mighty Cucks,N/A,1
+2022,Kenyan Drake,Tijuana Sanchitos,N/A,2
+2022,Skyy Moore,Pasco Pounders,N/A,2
+2022,Matthew Stafford,Goleta Gringos,N/A,1
+2022,Michael Carter,Chula Vista Chupacabras,N/A,3
+2022,Kenneth Gainwell,Fairview Fat Cats,N/A,1
+2022,Alexander Mattison,Tijuana Sanchitos,N/A,1
+2022,James Cook,DC Mighty Cucks,N/A,4
+2022,J.D. McKissic,Poulsbo Polliwogs,N/A,1
+2022,Ravens D/ST,San Diego Shadowcöcks,N/A,1
+2022,Tyler Bass,Pasco Pounders,N/A,1
+2022,Kadarius Toney,Honolulu Horndogs,N/A,2
+2022,Brian Robinson Jr.,Squaw Valley Skinners,N/A,1
+2022,Noah Fant,Westeros  Warlords,N/A,1
+2022,Greg Joseph,Goleta Gringos,N/A,1
+2022,Zamir White,Tittsburgh Feelers,N/A,1
+2022,Julio Jones,Fairview Fat Cats,N/A,1
+2022,Khalil Herbert,Chula Vista Chupacabras,N/A,3
+2022,Marquez Valdes-Scantling,Poulsbo Polliwogs,N/A,1
+2022,Garrett Wilson,San Diego Shadowcöcks,N/A,1
+2022,Cowboys D/ST,Pasco Pounders,N/A,1
+2022,Mark Ingram II,Honolulu Horndogs,N/A,1
+2022,Isiah Pacheco,Squaw Valley Skinners,N/A,1
+2022,Rondale Moore,Westeros  Warlords,N/A,1
+2022,Dolphins D/ST,Goleta Gringos,N/A,1
+2022,Rachaad White,Tittsburgh Feelers,N/A,2
+2022,KJ Hamler,Fairview Fat Cats,N/A,1
+2022,Tyler Boyd,Poulsbo Polliwogs,N/A,1
+2022,Matt Prater,San Diego Shadowcöcks,N/A,1
+2022,Romeo Doubs,Honolulu Horndogs,N/A,1
+2022,Nick Folk,Squaw Valley Skinners,N/A,1
+2022,DJ Chark,Tittsburgh Feelers,N/A,2
+2022,Ronald Jones,Tittsburgh Feelers,N/A,1
+2022,Hunter Henry,Fairview Fat Cats,N/A,1
+2022,Russell Gage,Poulsbo Polliwogs,N/A,1
+2022,Jahan Dotson,San Diego Shadowcöcks,N/A,1
+2022,Steelers D/ST,Honolulu Horndogs,N/A,1
+2022,Jarvis Landry,Westeros  Warlords,N/A,1
+2022,Joshua Palmer,Fairview Fat Cats,N/A,1
+2022,Graham Gano,Poulsbo Polliwogs,N/A,1
+2022,DeVante Parker,Honolulu Horndogs,N/A,1
+2022,Mike Gesicki,Westeros  Warlords,N/A,1
+2022,Chargers D/ST,Poulsbo Polliwogs,N/A,1
+2022,Rams D/ST,Westeros  Warlords,N/A,1
+2022,Robbie Gould,Westeros  Warlords,N/A,1
+2022,Marvin Jones Jr.,Westeros  Warlords,N/A,1
+2022,Jakobi Meyers,Westeros  Warlords,N/A,1
+2022,Nico Collins,Westeros  Warlords,N/A,1
+2023,Harrison Butker,Pasco Pounders,N/A,1
+2023,Dameon Pierce,San Diego Shadowcöcks,N/A,18
+2023,Najee Harris,Westeros  Warlords,N/A,28
+2023,Kenneth Walker III,Westeros  Warlords,N/A,34
+2023,Tyreek Hill,San Diego Shadowcöcks,N/A,62
+2023,Justin Jefferson,Goleta Gringos,N/A,74
+2023,Ja'Marr Chase,San Diego Shadowcöcks,N/A,67
+2023,Justin Tucker,Honolulu Horndogs,N/A,2
+2023,Javonte Williams,Westeros  Warlords,N/A,17
+2023,Jonathan Taylor,Tijuana Sanchitos,N/A,15
+2023,Derrick Henry,Tittsburgh Feelers,N/A,61
+2023,Daniel Carlson,Fairview Fat Cats,N/A,2
+2023,Travis Kelce,Squaw Valley Skinners,N/A,67
+2023,Christian McCaffrey,Tijuana Sanchitos,N/A,66
+2023,Joe Mixon,Honolulu Horndogs,N/A,24
+2023,Evan McPherson,San Diego Shadowcöcks,N/A,2
+2023,Nick Chubb,Pasco Pounders,N/A,65
+2023,Austin Ekeler,Fairview Fat Cats,N/A,63
+2023,Garrett Wilson,Poulsbo Polliwogs,N/A,50
+2023,49ers D/ST,San Diego Shadowcöcks,N/A,2
+2023,Cooper Kupp,Squaw Valley Skinners,N/A,46
+2023,Davante Adams,Honolulu Horndogs,N/A,54
+2023,Tony Pollard,DC Mighty Cucks,N/A,59
+2023,Steelers D/ST,Fairview Fat Cats,N/A,2
+2023,Mark Andrews,DC Mighty Cucks,N/A,24
+2023,Bijan Robinson,DC Mighty Cucks,N/A,59
+2023,Breece Hall,Westeros  Warlords,N/A,29
+2023,Stefon Diggs,Tijuana Sanchitos,N/A,53
+2023,Christian Watson,Pasco Pounders,N/A,15
+2023,Zach Charbonnet,Pasco Pounders,N/A,3
+2023,Amon-Ra St. Brown,Honolulu Horndogs,N/A,43
+2023,Josh Jacobs,Goleta Gringos,N/A,56
+2023,Travis Etienne Jr.,Pasco Pounders,N/A,34
+2023,Aaron Jones,Tittsburgh Feelers,N/A,31
+2023,Jalen Hurts,DC Mighty Cucks,N/A,27
+2023,Saquon Barkley,Poulsbo Polliwogs,N/A,62
+2023,Calvin Ridley,Chula Vista Chupacabras,N/A,32
+2023,CeeDee Lamb,Westeros  Warlords,N/A,46
+2023,Alexander Mattison,Chula Vista Chupacabras,N/A,18
+2023,A.J. Brown,San Diego Shadowcöcks,N/A,37
+2023,Commanders D/ST,Tittsburgh Feelers,N/A,1
+2023,Patrick Mahomes,Pasco Pounders,N/A,30
+2023,James Conner,Honolulu Horndogs,N/A,17
+2023,Josh Allen,Tittsburgh Feelers,N/A,27
+2023,Lamar Jackson,Fairview Fat Cats,N/A,25
+2023,Rachaad White,Chula Vista Chupacabras,N/A,19
+2023,DeVonta Smith,Tijuana Sanchitos,N/A,25
+2023,Tee Higgins,Westeros  Warlords,N/A,22
+2023,Jahmyr Gibbs,Chula Vista Chupacabras,N/A,40
+2023,Deebo Samuel,Poulsbo Polliwogs,N/A,17
+2023,Keenan Allen,Poulsbo Polliwogs,N/A,20
+2023,DK Metcalf,Chula Vista Chupacabras,N/A,31
+2023,Joe Burrow,Tijuana Sanchitos,N/A,13
+2023,Tua Tagovailoa,Squaw Valley Skinners,N/A,2
+2023,Justin Fields,Chula Vista Chupacabras,N/A,19
+2023,Chris Olave,Fairview Fat Cats,N/A,34
+2023,Saints D/ST,Honolulu Horndogs,N/A,2
+2023,Cowboys D/ST,Squaw Valley Skinners,N/A,2
+2023,Jaylen Waddle,Squaw Valley Skinners,N/A,37
+2023,Darren Waller,Poulsbo Polliwogs,N/A,20
+2023,Alvin Kamara,Pasco Pounders,N/A,14
+2023,Rhamondre Stevenson,Goleta Gringos,N/A,34
+2023,Mike Williams,Goleta Gringos,N/A,14
+2023,T.J. Hockenson,Chula Vista Chupacabras,N/A,24
+2023,Amari Cooper,Pasco Pounders,N/A,20
+2023,Dalvin Cook,Tijuana Sanchitos,N/A,12
+2023,James Cook,Tittsburgh Feelers,N/A,22
+2023,DJ Moore,Fairview Fat Cats,N/A,9
+2023,Patriots D/ST,Goleta Gringos,N/A,1
+2023,Ravens D/ST,Chula Vista Chupacabras,N/A,1
+2023,AJ Dillon,Chula Vista Chupacabras,N/A,5
+2023,Jerry Jeudy,Honolulu Horndogs,N/A,8
+2023,Jets D/ST,Westeros  Warlords,N/A,2
+2023,Cam Akers,Squaw Valley Skinners,N/A,13
+2023,George Kittle,Tittsburgh Feelers,N/A,13
+2023,Jason Myers,Westeros  Warlords,N/A,1
+2023,Justin Herbert,Westeros  Warlords,N/A,11
+2023,Christian Kirk,Tittsburgh Feelers,N/A,6
+2023,Kyle Pitts,Fairview Fat Cats,N/A,11
+2023,Diontae Johnson,Fairview Fat Cats,N/A,5
+2023,Deshaun Watson,Honolulu Horndogs,N/A,12
+2023,Miles Sanders,Squaw Valley Skinners,N/A,23
+2023,Odell Beckham Jr.,Poulsbo Polliwogs,N/A,3
+2023,Isiah Pacheco,Fairview Fat Cats,N/A,12
+2023,Bills D/ST,Pasco Pounders,N/A,1
+2023,Khalil Herbert,Poulsbo Polliwogs,N/A,12
+2023,Tyler Bass,Tittsburgh Feelers,N/A,2
+2023,Graham Gano,Chula Vista Chupacabras,N/A,2
+2023,Mike Evans,Fairview Fat Cats,N/A,6
+2023,Terry McLaurin,Chula Vista Chupacabras,N/A,5
+2023,J.K. Dobbins,Honolulu Horndogs,N/A,15
+2023,Jahan Dotson,DC Mighty Cucks,N/A,4
+2023,Jaxon Smith-Njigba,Fairview Fat Cats,N/A,5
+2023,Jaylen Warren,Fairview Fat Cats,N/A,3
+2023,Dallas Goedert,Honolulu Horndogs,N/A,8
+2023,Samaje Perine,Fairview Fat Cats,N/A,3
+2023,Chris Godwin,Tijuana Sanchitos,N/A,6
+2023,Anthony Richardson,San Diego Shadowcöcks,N/A,3
+2023,Raheem Mostert,Goleta Gringos,N/A,5
+2023,D'Andre Swift,Fairview Fat Cats,N/A,6
+2023,DeAndre Hopkins,Tittsburgh Feelers,N/A,5
+2023,Marquise Brown,Tittsburgh Feelers,N/A,2
+2023,Brian Robinson Jr.,Honolulu Horndogs,N/A,3
+2023,Drake London,DC Mighty Cucks,N/A,9
+2023,Trevor Lawrence,Poulsbo Polliwogs,N/A,8
+2023,Courtland Sutton,Squaw Valley Skinners,N/A,2
+2023,Gabe Davis,Goleta Gringos,N/A,7
+2023,David Montgomery,Tittsburgh Feelers,N/A,15
+2023,Pat Freiermuth,Tittsburgh Feelers,N/A,4
+2023,Brandon Aiyuk,Tijuana Sanchitos,N/A,3
+2023,Jake Elliott,Squaw Valley Skinners,N/A,1
+2023,George Pickens,Pasco Pounders,N/A,2
+2023,Michael Thomas,Tittsburgh Feelers,N/A,3
+2023,Michael Pittman Jr.,Poulsbo Polliwogs,N/A,2
+2023,Jerick McKinnon,Honolulu Horndogs,N/A,1
+2023,Tyler Lockett,Fairview Fat Cats,N/A,14
+2023,Zay Flowers,Tittsburgh Feelers,N/A,7
+2023,Elijah Moore,Chula Vista Chupacabras,N/A,1
+2023,Jordan Addison,DC Mighty Cucks,N/A,7
+2023,Jamaal Williams,Pasco Pounders,N/A,3
+2023,Tank Bigsby,Pasco Pounders,N/A,2
+2023,Antonio Gibson,Squaw Valley Skinners,N/A,2
+2023,Evan Engram,Pasco Pounders,N/A,4
+2023,Geno Smith,Tittsburgh Feelers,N/A,1
+2023,Dolphins D/ST,Tijuana Sanchitos,N/A,1
+2023,Elijah Mitchell,Honolulu Horndogs,N/A,3
+2023,Treylon Burks,Honolulu Horndogs,N/A,2
+2023,Cole Kmet,San Diego Shadowcöcks,N/A,2
+2023,Tyler Allgeier,Chula Vista Chupacabras,N/A,1
+2023,Skyy Moore,Honolulu Horndogs,N/A,3
+2023,Brandin Cooks,Pasco Pounders,N/A,1
+2023,Ezekiel Elliott,Pasco Pounders,N/A,5
+2023,Rashaad Penny,Squaw Valley Skinners,N/A,1
+2023,David Njoku,Westeros  Warlords,N/A,1
+2023,Michael Gallup,Tijuana Sanchitos,N/A,1
+2023,Deon Jackson,San Diego Shadowcöcks,N/A,1
+2023,Dak Prescott,Goleta Gringos,N/A,1
+2023,Sam LaPorta,Chula Vista Chupacabras,N/A,1
+2023,Kirk Cousins,DC Mighty Cucks,N/A,1
+2023,Daniel Jones,Poulsbo Polliwogs,N/A,1
+2023,Gus Edwards,Westeros  Warlords,N/A,2
+2023,Kareem Hunt,Westeros  Warlords,N/A,1
+2023,JuJu Smith-Schuster,Tijuana Sanchitos,N/A,1
+2023,Kadarius Toney,San Diego Shadowcöcks,N/A,1
+2023,Quentin Johnston,DC Mighty Cucks,N/A,3
+2023,Jameson Williams,Chula Vista Chupacabras,N/A,1
+2023,Nico Collins,DC Mighty Cucks,N/A,1
+2023,Devin Singletary,Poulsbo Polliwogs,N/A,1
+2023,Jeff Wilson Jr.,Squaw Valley Skinners,N/A,1
+2023,Rashod Bateman,Westeros  Warlords,N/A,1
+2023,De'Von Achane,Goleta Gringos,N/A,2
+2023,Tyjae Spears,San Diego Shadowcöcks,N/A,1
+2023,Dalton Kincaid,Goleta Gringos,N/A,1
+2023,Roschon Johnson,DC Mighty Cucks,N/A,1
+2023,Jakobi Meyers,Poulsbo Polliwogs,N/A,1
+2023,DJ Chark Jr.,Squaw Valley Skinners,N/A,1
+2023,Damien Harris,Westeros  Warlords,N/A,1
+2023,Dalton Schultz,Tijuana Sanchitos,N/A,1
+2023,Chuba Hubbard,DC Mighty Cucks,N/A,2
+2023,Joshua Kelley,Westeros  Warlords,N/A,2
+2023,Chigoziem Okonkwo,DC Mighty Cucks,N/A,1
+2023,Darnell Mooney,Poulsbo Polliwogs,N/A,1
+2023,Giants D/ST,Squaw Valley Skinners,N/A,1
+2023,Aaron Rodgers,Tijuana Sanchitos,N/A,1
+2023,Jared Goff,San Diego Shadowcöcks,N/A,1
+2023,Bryce Young,Goleta Gringos,N/A,1
+2023,Browns D/ST,DC Mighty Cucks,N/A,1
+2023,Packers D/ST,Poulsbo Polliwogs,N/A,1
+2023,Jalin Hyatt,Squaw Valley Skinners,N/A,1
+2023,Evan Hull,Tijuana Sanchitos,N/A,1
+2023,Greg Dulcich,San Diego Shadowcöcks,N/A,1
+2023,Kyren Williams,Goleta Gringos,N/A,1
+2023,Blake Grupe,DC Mighty Cucks,N/A,1
+2023,Matt Gay,Poulsbo Polliwogs,N/A,1
+2023,Younghoe Koo,Tijuana Sanchitos,N/A,1
+2023,D'Onta Foreman,San Diego Shadowcöcks,N/A,1
+2023,Greg Zuerlein,Goleta Gringos,N/A,1
+2023,Jerome Ford,San Diego Shadowcöcks,N/A,1
+2023,Allen Lazard,Goleta Gringos,N/A,1
+2023,Rondale Moore,Goleta Gringos,N/A,1
+2024,Josh Allen,Patagonia Pipers,N/A,23
+2024,Chris Olave,Honolulu Horndogs,N/A,25
+2024,Amon-Ra St. Brown,San Diego Shadowcöcks,N/A,56
+2024,Breece Hall,Fairview Fat Cats,N/A,75
+2024,Tyreek Hill,Squaw Valley Skinners,N/A,68
+2024,Travis Etienne Jr.,San Diego Shadowcöcks,N/A,50
+2024,Christian McCaffrey,Tittsburgh Feelers,N/A,80
+2024,Bijan Robinson,Squaw Valley Skinners,N/A,80
+2024,Calvin Ridley,Goleta Gringos,N/A,24
+2024,CeeDee Lamb,Patagonia Pipers,N/A,73
+2024,Brandon Aubrey,San Diego Shadowcöcks,N/A,2
+2024,Justin Jefferson,San Diego Shadowcöcks,N/A,62
+2024,Malik Nabers,Poulsbo Polliwogs,N/A,22
+2024,Nico Collins,Pasco Pounders,N/A,34
+2024,Browns D/ST,Fairview Fat Cats,N/A,2
+2024,Ja'Marr Chase,Tijuana Sanchitos,N/A,61
+2024,Harrison Butker,Goleta Gringos,N/A,2
+2024,Kenneth Walker III,Honolulu Horndogs,N/A,45
+2024,Josh Jacobs,Westeros  Warlords,N/A,49
+2024,Saquon Barkley,Poulsbo Polliwogs,N/A,58
+2024,Zay Flowers,Patagonia Pipers,N/A,15
+2024,Puka Nacua,Tijuana Sanchitos,N/A,38
+2024,49ers D/ST,Pasco Pounders,N/A,3
+2024,Rachaad White,Poulsbo Polliwogs,N/A,33
+2024,Jalen Hurts,Goleta Gringos,N/A,24
+2024,DJ Moore,Fairview Fat Cats,N/A,20
+2024,Justin Tucker,Fairview Fat Cats,N/A,2
+2024,Marvin Harrison Jr.,Westeros  Warlords,N/A,41
+2024,Jordan Love,Pasco Pounders,N/A,8
+2024,Isiah Pacheco,Pasco Pounders,N/A,43
+2024,Joe Mixon,Westeros  Warlords,N/A,28
+2024,Mike Evans,Pasco Pounders,N/A,33
+2024,Kyren Williams,Goleta Gringos,N/A,53
+2024,Garrett Wilson,DC Mighty Cucks,N/A,57
+2024,Cowboys D/ST,Goleta Gringos,N/A,3
+2024,Derrick Henry,Fairview Fat Cats,N/A,50
+2024,Jonathan Taylor,Goleta Gringos,N/A,53
+2024,Rhamondre Stevenson,Pasco Pounders,N/A,10
+2024,A.J. Brown,Honolulu Horndogs,N/A,45
+2024,DK Metcalf,Tijuana Sanchitos,N/A,36
+2024,Jahmyr Gibbs,Tittsburgh Feelers,N/A,66
+2024,James Cook,Honolulu Horndogs,N/A,37
+2024,Jets D/ST,San Diego Shadowcöcks,N/A,2
+2024,Deebo Samuel Sr.,Poulsbo Polliwogs,N/A,35
+2024,Younghoe Koo,Tittsburgh Feelers,N/A,1
+2024,James Conner,DC Mighty Cucks,N/A,16
+2024,Jayden Daniels,San Diego Shadowcöcks,N/A,8
+2024,Amari Cooper,Tijuana Sanchitos,N/A,12
+2024,Drake London,DC Mighty Cucks,N/A,35
+2024,Michael Pittman Jr.,Honolulu Horndogs,N/A,15
+2024,Davante Adams,Pasco Pounders,N/A,29
+2024,Cooper Kupp,Patagonia Pipers,N/A,32
+2024,Sam LaPorta,Westeros  Warlords,N/A,18
+2024,Kyle Pitts,San Diego Shadowcöcks,N/A,7
+2024,Alvin Kamara,Squaw Valley Skinners,N/A,19
+2024,Travis Kelce,Goleta Gringos,N/A,19
+2024,Christian Watson,Honolulu Horndogs,N/A,3
+2024,Patrick Mahomes,Poulsbo Polliwogs,N/A,19
+2024,Lamar Jackson,Fairview Fat Cats,N/A,12
+2024,De'Von Achane,DC Mighty Cucks,N/A,43
+2024,DeAndre Hopkins,Squaw Valley Skinners,N/A,2
+2024,Stefon Diggs,Poulsbo Polliwogs,N/A,9
+2024,DeVonta Smith,Westeros  Warlords,N/A,14
+2024,Brandon Aiyuk,Westeros  Warlords,N/A,19
+2024,George Pickens,Squaw Valley Skinners,N/A,9
+2024,Aaron Jones,Tijuana Sanchitos,N/A,18
+2024,Tee Higgins,Fairview Fat Cats,N/A,11
+2024,Mark Andrews,Squaw Valley Skinners,N/A,10
+2024,Javonte Williams,DC Mighty Cucks,N/A,11
+2024,Jaylen Waddle,DC Mighty Cucks,N/A,18
+2024,Xavier Worthy,Patagonia Pipers,N/A,6
+2024,Najee Harris,Tijuana Sanchitos,N/A,10
+2024,George Kittle,Fairview Fat Cats,N/A,9
+2024,Diontae Johnson,Patagonia Pipers,N/A,6
+2024,Trey McBride,DC Mighty Cucks,N/A,11
+2024,Tank Dell,Westeros  Warlords,N/A,8
+2024,D'Andre Swift,Patagonia Pipers,N/A,17
+2024,Brian Robinson Jr.,Patagonia Pipers,N/A,15
+2024,Anthony Richardson,Honolulu Horndogs,N/A,9
+2024,Dalton Kincaid,Poulsbo Polliwogs,N/A,12
+2024,Jaylen Warren,Patagonia Pipers,N/A,3
+2024,Rashee Rice,Tijuana Sanchitos,N/A,10
+2024,C.J. Stroud,Pasco Pounders,N/A,12
+2024,Jonathon Brooks,San Diego Shadowcöcks,N/A,5
+2024,Jake Moody,Pasco Pounders,N/A,1
+2024,Chris Godwin,Goleta Gringos,N/A,5
+2024,Brian Thomas Jr.,Tittsburgh Feelers,N/A,5
+2024,David Montgomery,Tittsburgh Feelers,N/A,16
+2024,Christian Kirk,Honolulu Horndogs,N/A,5
+2024,Tony Pollard,Honolulu Horndogs,N/A,7
+2024,Ka'imi Fairbairn,Tijuana Sanchitos,N/A,2
+2024,Joe Burrow,Tijuana Sanchitos,N/A,6
+2024,David Njoku,Westeros  Warlords,N/A,3
+2024,Raheem Mostert,Goleta Gringos,N/A,10
+2024,Chuba Hubbard,Fairview Fat Cats,N/A,2
+2024,Cameron Dicker,DC Mighty Cucks,N/A,1
+2024,Brock Bowers,Patagonia Pipers,N/A,4
+2024,Jaxon Smith-Njigba,Squaw Valley Skinners,N/A,3
+2024,Jerome Ford,Pasco Pounders,N/A,7
+2024,Blake Corum,Westeros  Warlords,N/A,5
+2024,Keenan Allen,Tittsburgh Feelers,N/A,2
+2024,Evan Engram,Tittsburgh Feelers,N/A,5
+2024,J.K. Dobbins,Fairview Fat Cats,N/A,4
+2024,Rome Odunze,Poulsbo Polliwogs,N/A,3
+2024,Jayden Reed,Pasco Pounders,N/A,4
+2024,Zamir White,Westeros  Warlords,N/A,9
+2024,Zach Charbonnet,Honolulu Horndogs,N/A,2
+2024,Bengals D/ST,DC Mighty Cucks,N/A,1
+2024,Terry McLaurin,Tittsburgh Feelers,N/A,7
+2024,Devin Singletary,Tittsburgh Feelers,N/A,3
+2024,Zack Moss,Pasco Pounders,N/A,5
+2024,Steelers D/ST,Poulsbo Polliwogs,N/A,2
+2024,Courtland Sutton,Goleta Gringos,N/A,1
+2024,Jake Ferguson,Honolulu Horndogs,N/A,2
+2024,Nick Chubb,Pasco Pounders,N/A,8
+2024,Dak Prescott,Tittsburgh Feelers,N/A,2
+2024,Tyjae Spears,Fairview Fat Cats,N/A,4
+2024,Austin Ekeler,Fairview Fat Cats,N/A,2
+2024,Ezekiel Elliott,Tittsburgh Feelers,N/A,2
+2024,Kyler Murray,Fairview Fat Cats,N/A,3
+2024,Chase Brown,Pasco Pounders,N/A,1
+2024,Trey Benson,Tittsburgh Feelers,N/A,2
+2024,Gus Edwards,Tittsburgh Feelers,N/A,3
+2024,Jordan Mason,Tittsburgh Feelers,N/A,2
+2024,Jordan Addison,Goleta Gringos,N/A,1
+2024,Keon Coleman,Honolulu Horndogs,N/A,1
+2024,Caleb Williams,Tittsburgh Feelers,N/A,2
+2024,Brock Purdy,Poulsbo Polliwogs,N/A,1
+2024,Ravens D/ST,Tittsburgh Feelers,N/A,2
+2024,Dallas Goedert,Tijuana Sanchitos,N/A,1
+2024,Tyler Allgeier,San Diego Shadowcöcks,N/A,1
+2024,Ty Chandler,DC Mighty Cucks,N/A,1
+2024,Pat Freiermuth,Pasco Pounders,N/A,1
+2024,Justin Herbert,Squaw Valley Skinners,N/A,1
+2024,Darnell Mooney,Fairview Fat Cats,N/A,1
+2024,Rico Dowdle,Patagonia Pipers,N/A,1
+2024,Ladd McConkey,Fairview Fat Cats,N/A,2
+2024,Jaleel McLaughlin,Honolulu Horndogs,N/A,1
+2024,Chiefs D/ST,Westeros  Warlords,N/A,1
+2024,Mike Williams,Poulsbo Polliwogs,N/A,1
+2024,Bucky Irving,Tijuana Sanchitos,N/A,1
+2024,Jaylen Wright,San Diego Shadowcöcks,N/A,1
+2024,Jameson Williams,DC Mighty Cucks,N/A,1
+2024,T.J. Hockenson,Pasco Pounders,N/A,1
+2024,Khalil Herbert,Squaw Valley Skinners,N/A,1
+2024,Jakobi Meyers,Fairview Fat Cats,N/A,1
+2024,Ray Davis,Patagonia Pipers,N/A,1
+2024,Tyler Lockett,Goleta Gringos,N/A,1
+2024,Ja'Lynn Polk,Honolulu Horndogs,N/A,1
+2024,Curtis Samuel,Westeros  Warlords,N/A,1
+2024,Hollywood Brown,Poulsbo Polliwogs,N/A,1
+2024,Antonio Gibson,Tijuana Sanchitos,N/A,1
+2024,Jerry Jeudy,San Diego Shadowcöcks,N/A,1
+2024,Kimani Vidal,DC Mighty Cucks,N/A,1
+2024,Trevor Lawrence,Squaw Valley Skinners,N/A,1
+2024,Adonai Mitchell,Patagonia Pipers,N/A,1
+2024,Joshua Palmer,Goleta Gringos,N/A,1
+2024,Saints D/ST,Honolulu Horndogs,N/A,1
+2024,D'Onta Foreman,Westeros  Warlords,N/A,1
+2024,Taysom Hill,Poulsbo Polliwogs,N/A,1
+2024,Dolphins D/ST,Tijuana Sanchitos,N/A,1
+2024,Tyrone Tracy Jr.,San Diego Shadowcöcks,N/A,1
+2024,Tank Bigsby,DC Mighty Cucks,N/A,1
+2024,Dalton Schultz,Squaw Valley Skinners,N/A,1
+2024,Khalil Shakir,Patagonia Pipers,N/A,1
+2024,Cole Kmet,Goleta Gringos,N/A,1
+2024,Jake Elliott,Honolulu Horndogs,N/A,1
+2024,Dontayvion Wicks,Westeros  Warlords,N/A,1
+2024,Aaron Rodgers,Poulsbo Polliwogs,N/A,1
+2024,Alexander Mattison,Tijuana Sanchitos,N/A,1
+2024,Gabe Davis,San Diego Shadowcöcks,N/A,1
+2024,MarShawn Lloyd,DC Mighty Cucks,N/A,1
+2024,Dalvin Cook,Squaw Valley Skinners,N/A,1
+2024,Greg Zuerlein,Patagonia Pipers,N/A,1
+2024,Jamaal Williams,Goleta Gringos,N/A,1
+2024,Evan McPherson,Westeros  Warlords,N/A,1
+2024,Kirk Cousins,Poulsbo Polliwogs,N/A,1
+2024,Tua Tagovailoa,Tijuana Sanchitos,N/A,1
+2024,Rashod Bateman,San Diego Shadowcöcks,N/A,1
+2024,Jalen McMillan,DC Mighty Cucks,N/A,1
+2024,Kendre Miller,Squaw Valley Skinners,N/A,1
+2024,Jaguars D/ST,Patagonia Pipers,N/A,1
+2024,Audric Estime,Goleta Gringos,N/A,1
+2024,Jared Goff,Westeros  Warlords,N/A,1
+2024,Cairo Santos,Poulsbo Polliwogs,N/A,1
+2024,DeMario Douglas,Tijuana Sanchitos,N/A,1
+2024,Marvin Mims Jr.,San Diego Shadowcöcks,N/A,1
+2024,Matthew Stafford,DC Mighty Cucks,N/A,1
+2024,Lions D/ST,Squaw Valley Skinners,N/A,1
+2024,Michael Wilson,San Diego Shadowcöcks,N/A,1
+2024,Seahawks D/ST,Squaw Valley Skinners,N/A,1
+2024,Jake Bates,Squaw Valley Skinners,N/A,1

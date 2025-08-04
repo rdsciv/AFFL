@@ -1,0 +1,61 @@
+year,team_id,team_name,owner_name,wins,losses,ties,points_for,points_against,final_standing,division_name
+2020,1,Squaw Valley Skinners,lil_flip207,2,11,0,1117.86,1373.98,11,East
+2020,2,Fairview Fat Cats,espn39855385,9,4,0,1195.1399999999999,1129.44,4,West
+2020,3,Goleta Gringos,kevslig23,6,7,0,1148.3799999999999,1261.68,8,East
+2020,4,San Diego Shadowcocks,Buzz your Girlfriend... WOOF,6,7,0,1192.1599999999999,1167.5,9,West
+2020,5,Muck City Mad Dawgs,jonesyg29,4,9,0,970.06,1255.54,12,West
+2020,6,DC Mighty Cucks,Big.RedWSU,6,7,0,1194.3999999999999,1175.32,7,West
+2020,7,Tittsburgh Feelers,RaiderRyan7,8,5,0,1399.9999999999998,1133.34,2,East
+2020,8,Westeros  Warlords,Sanch120,11,2,0,1453.1000000000001,1187.2,3,East
+2020,9,Tijuana Sanchitos,zack.blotz,5,8,0,1201.52,1254.86,10,West
+2020,10,Chula Vista Chupacabras,jasonk5506,8,5,0,1282.5,1359.9,1,East
+2020,11,Honolulu Horndogs,alexgocougs,6,7,0,1220.54,1284.54,5,East
+2020,12,Winston-Salem Wake Snakes,TannerADunnzo23,7,6,0,1425.26,1217.62,6,West
+2021,1,Squaw Valley Skinners,lil_flip207,4,10,0,1226.28,1315.56,8,East
+2021,2,Fairview Fat Cats,espn39855385,4,10,0,1199.54,1409.0,7,West
+2021,3,Goleta Gringos,espn06361506,3,11,0,1303.1799999999998,1522.02,9,West
+2021,4,San Diego Shadowcocks,Buzz your Girlfriend... WOOF,7,7,0,1247.4600000000003,1143.3,10,East
+2021,6,DC Mighty Cucks,Big.RedWSU,10,4,0,1613.9399999999998,1357.8,5,West
+2021,7,Tittsburgh Feelers,RaiderRyan7,9,5,0,1360.9199999999998,1317.84,3,East
+2021,8,Westeros  Warlords,Sanch120,6,8,0,1200.3,1291.86,11,East
+2021,9,Tijuana Sanchitos,zack.blotz,6,8,0,1258.28,1229.26,12,West
+2021,10,Chula Vista Chupacabras,jasonk5506,7,7,0,1348.8799999999999,1386.26,2,West
+2021,11,Honolulu Horndogs,alexgocougs,8,6,0,1353.14,1398.34,1,East
+2021,13,Pasco Pounders,ESPNFAN1975192217,9,5,0,1353.28,1293.74,6,East
+2021,14,Poulsbo Polliwogs,sbreitmayer,11,3,0,1472.3600000000001,1272.58,4,West
+2022,1,Squaw Valley Skinners,lil_flip207,4,10,0,1236.52,1367.94,7,East
+2022,2,Fairview Fat Cats,espn39855385,10,4,0,1354.0800000000002,1225.42,1,West
+2022,3,Goleta Gringos,espn06361506,8,6,0,1242.46,1277.6,4,West
+2022,4,San Diego Shadowcöcks,Buzz your Girlfriend... WOOF,6,8,0,1357.34,1330.92,11,East
+2022,6,DC Mighty Cucks,Big.RedWSU,9,5,0,1430.8600000000001,1230.7,6,West
+2022,7,Tittsburgh Feelers,RaiderRyan7,9,5,0,1430.1200000000001,1287.08,2,East
+2022,8,Westeros  Warlords,Sanch120,8,6,0,1249.1000000000001,1235.72,3,East
+2022,9,Tijuana Sanchitos,zack.blotz,6,8,0,1255.0200000000002,1290.64,10,West
+2022,10,Chula Vista Chupacabras,jasonk5506,6,8,0,1240.06,1437.76,9,West
+2022,11,Honolulu Horndogs,alexgocougs,7,7,0,1266.58,1307.78,8,East
+2022,13,Pasco Pounders,ESPNFAN1975192217,9,5,0,1364.5,1258.98,5,East
+2022,14,Poulsbo Polliwogs,sbreitmayer,2,12,0,1116.14,1292.24,12,West
+2023,1,Squaw Valley Skinners,lil_flip207,7,7,0,1302.4399999999998,1244.42,8,East
+2023,2,Fairview Fat Cats,espn39855385,3,11,0,1172.1,1334.12,11,West
+2023,3,Goleta Gringos,espn06361506,9,5,0,1280.68,1215.22,2,West
+2023,4,San Diego Shadowcöcks,Buzz your Girlfriend... WOOF,8,6,0,1399.7199999999998,1250.72,6,East
+2023,6,DC Mighty Cucks,Big.RedWSU,8,6,0,1267.5000000000002,1288.14,5,West
+2023,7,Tittsburgh Feelers,RaiderRyan7,8,6,0,1294.06,1281.2,4,East
+2023,8,Westeros  Warlords,Sanch120,10,4,0,1405.8000000000002,1330.88,1,East
+2023,9,Tijuana Sanchitos,zack.blotz,6,8,0,1274.86,1340.36,10,West
+2023,10,Chula Vista Chupacabras,jasonk5506,6,8,0,1142.4600000000003,1199.94,12,West
+2023,11,Honolulu Horndogs,alexgocougs,6,8,0,1294.6599999999999,1336.98,9,East
+2023,13,Pasco Pounders,ESPNFAN1975192217,6,8,0,1208.02,1169.5,7,East
+2023,14,Poulsbo Polliwogs,sbreitmayer,7,7,0,1329.9199999999998,1380.74,3,West
+2024,1,Squaw Valley Skinners,lil_flip207,6,8,0,1217.16,1340.16,10,East
+2024,2,Fairview Fat Cats,espn39855385,9,5,0,1434.76,1288.24,3,West
+2024,3,Goleta Gringos,espn06361506,9,5,0,1362.48,1287.04,5,West
+2024,4,San Diego Shadowcöcks,Buzz your Girlfriend... WOOF,9,5,0,1317.08,1352.6,2,East
+2024,6,DC Mighty Cucks,Big.RedWSU,7,7,0,1210.1000000000001,1288.04,7,West
+2024,7,Tittsburgh Feelers,RaiderRyan7,2,12,0,1230.6200000000001,1337.26,12,East
+2024,8,Westeros  Warlords,Sanch120,7,7,0,1296.26,1360.36,6,East
+2024,9,Tijuana Sanchitos,zack.blotz,9,5,0,1479.2999999999995,1304.18,1,West
+2024,10,Patagonia Pipers,Wazzubrew,8,6,0,1374.0,1230.36,4,West
+2024,11,Honolulu Horndogs,alexgocougs,7,7,0,1270.06,1252.56,8,East
+2024,13,Pasco Pounders,ESPNFAN1975192217,6,8,0,1247.74,1309.46,9,East
+2024,14,Poulsbo Polliwogs,sbreitmayer,5,9,0,1361.56,1450.86,11,West
